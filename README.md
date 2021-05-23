@@ -12,4 +12,4 @@ The main tasks involved are:
 This is intented to be a learning exercise about Data Engineering and, more specifically, ETL pipelines.
   
 ## Resources
-* The IMDB data to be used can be found [here])https://www.kaggle.com/trentpark/imdb-data)
+* The IMDB data to be used can be found [here](https://www.kaggle.com/trentpark/imdb-data)
